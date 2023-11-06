@@ -1,2 +1,2 @@
 # RDKit_notebooks
-Material dos vídeos produzidos pela for_code da biblioteca RDKit em Python. 
+Notebooks utilizados na série de vídeos da biblioteca RDKit produzidos pela for_code.
